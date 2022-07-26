@@ -1,8 +1,9 @@
 {
-  "name": "rpg",
+  "name": "template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "React + TypeScript + Vite + GraphQL + Redux",
   "scripts": {
     "dev": "yarn && vite",
     "build": "tsc && vite build",
