@@ -17,6 +17,7 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "removeComments": true,
     "noEmit": true,
     "baseUrl": "src",
     "jsx": "react-jsx",
